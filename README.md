@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ngasa
-- 👀 I’m interested in Programming
+- 👀 I love Programming
 - 🌱 I’m currently learning Web development
 
 
